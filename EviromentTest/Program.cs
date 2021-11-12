@@ -6,7 +6,7 @@ namespace EviromentTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Emil");
+            Console.WriteLine("Hello Emil!");
         }
     }
 }
